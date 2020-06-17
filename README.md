@@ -50,9 +50,9 @@ window._tracker_.push(['unm', '']); //页面名字
 ```
 <li class="members" _tracker_click_="_tracker_click_" rdt="3" cat="button" act="编辑器_升级"><i class="eqf-vipdiamond-f"></i>&nbsp;升级 </li>
 ```
-rdt的取值只有字符串"3".
-cat为事件的分类，比如button,banner或image等
-act为事件名，比如"会员购买按钮点击"
+rdt的取值只有字符串"3".  
+cat为事件的分类，比如button,banner或image等  
+act为事件名，比如"会员购买按钮点击"  
 
 
 ### 七. 字段表
